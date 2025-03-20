@@ -4,6 +4,7 @@ This repo contains a template for Computer graphics in Game development labs
 
 ## Pre-requirements
 
+
 - Version control: [Git](https://git-scm.com/)
 - Build automation: [CMake](https://cmake.org/download/)
 - C++ compiler: MSVC on Windows, Clang on MacOS, GCC on Linux (C++17 compatible)
